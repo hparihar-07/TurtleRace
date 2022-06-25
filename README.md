@@ -1,5 +1,5 @@
 # TurtleRace
-Learned from Tech with Tim(https://github.com/techwithtim)
+
 
 
 
